@@ -1,0 +1,1 @@
+DATABASE_URL = "postgresql://postgres:jeffrey1009@localhost/csr_schedule_db"
